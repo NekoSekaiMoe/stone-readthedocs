@@ -7,12 +7,13 @@ Welcome to moe-container-manager's documentation!
 ======================================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Contents:
 
    关于
    导航
    日志
+   其他
 
 
 
